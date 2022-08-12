@@ -1,0 +1,820 @@
+@media (min-width: 1400px) {
+
+	/* ====menu part start ===== */
+	.toggler_icon {
+		color: white;
+		font-size: 20px;
+	}
+
+	#main_menu .navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#main_menu .navbar-toggler {
+		border: none;
+	}
+
+	#main_menu ul li a {
+		color: white;
+	}
+
+	/* ====menu part end ===== */
+
+	/* ======banner part start ======= */
+	.banner-heading {
+		font-size: 50px;
+		margin-bottom: 38px;
+	}
+
+	/* ======banner part end ======= */
+
+	/* ======about part start ===== */
+	#about_part .heading {
+		margin-bottom: 26px;
+	}
+
+	#about_part {
+		padding: 120px 0;
+	}
+
+	#about_part .title {
+		font-size: 48px;
+	}
+
+	#about_part i {
+		font-size: 55px;
+		margin-bottom: 6px;
+	}
+
+	/* ======about part end ===== */
+
+	/* ====about second part start ==== */
+
+	#about_second {
+		padding: 120px 0;
+	}
+
+	#about_second h2 {
+		font-size: 43px;
+	}
+
+	#about_second .about_img img {
+		margin-top: 34px;
+	}
+
+	/* ====about second part end ==== */
+
+	/* =====gallery part start ==== */
+
+	#gallery_part {
+		padding-top: 90px;
+	}
+
+	#gallery_part .heading {
+		font-size: 48px;
+		margin-bottom: 25px;
+	}
+
+	.nav-link {
+		padding: 10px 10px;
+	}
+
+	#gallery_part .img img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		flex-direction: column;
+		gap: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		margin-top: 84px;
+	}
+
+	/* =====gallery part end ==== */
+
+	/* ======review part start ====== */
+
+
+	#review_part {
+		padding: 67px 0;
+	}
+
+	#review_part .main h2 {
+		margin-top: 80px;
+		font-size: 41px;
+	}
+
+	/* ======review part end ====== */
+
+	/* ======contact part start ======== */
+
+	#contact_part {
+		padding-bottom: 64px;
+	}
+
+	#contact_part a {
+		font-size: 20px;
+		margin-top: 67px;
+	}
+
+	#contact_part h1 {
+		font-size: 45px;
+	}
+
+	/* ======contact part end ======== */
+
+	/* ====ending part start ==== */
+
+	#ending_part .icon_main {
+		gap: 18px;
+	}
+
+	/* ====ending part end ==== */
+
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+	/* ====menu part start ===== */
+	.toggler_icon {
+		color: white;
+		font-size: 20px;
+	}
+
+	#main_menu .navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#main_menu .navbar-toggler {
+		border: none;
+	}
+
+	#main_menu ul li a {
+		color: white;
+	}
+
+	/* ====menu part end ===== */
+
+	/* ======banner part start ======= */
+	.banner-heading {
+		font-size: 50px;
+		margin-bottom: 38px;
+	}
+
+	/* ======banner part end ======= */
+
+	/* ======about part start ===== */
+	#about_part .heading {
+		margin-bottom: 26px;
+	}
+
+	#about_part {
+		padding: 120px 0;
+	}
+
+	#about_part .title {
+		font-size: 48px;
+	}
+
+	#about_part i {
+		font-size: 55px;
+		margin-bottom: 6px;
+	}
+
+	/* ======about part end ===== */
+
+	/* ====about second part start ==== */
+
+	#about_second {
+		padding: 120px 0;
+	}
+
+	#about_second h2 {
+		font-size: 43px;
+	}
+
+	#about_second .about_img img {
+		margin-top: 34px;
+	}
+
+	/* ====about second part end ==== */
+
+	/* =====gallery part start ==== */
+
+	#gallery_part {
+		padding-top: 90px;
+	}
+
+	#gallery_part .heading {
+		font-size: 48px;
+		margin-bottom: 25px;
+	}
+
+	.nav-link {
+		padding: 10px 10px;
+	}
+
+	#gallery_part .img img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		flex-direction: column;
+		gap: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		margin-top: 84px;
+	}
+
+	/* =====gallery part end ==== */
+
+	/* ======review part start ====== */
+
+
+	#review_part {
+		padding: 67px 0;
+	}
+
+	#review_part .main h2 {
+		margin-top: 80px;
+		font-size: 41px;
+	}
+
+	/* ======review part end ====== */
+
+	/* ======contact part start ======== */
+
+	#contact_part {
+		padding-bottom: 64px;
+	}
+
+	#contact_part a {
+		font-size: 20px;
+		margin-top: 67px;
+	}
+
+	#contact_part h1 {
+		font-size: 45px;
+	}
+
+	/* ======contact part end ======== */
+
+	/* ====ending part start ==== */
+
+	#ending_part .icon_main {
+		gap: 18px;
+	}
+
+	/* ====ending part end ==== */
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/* ====menu part start ===== */
+	.toggler_icon {
+		color: white;
+		font-size: 20px;
+	}
+
+	#main_menu .navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#main_menu .navbar-toggler {
+		border: none;
+	}
+
+	#main_menu ul li a {
+		color: white;
+	}
+
+	/* ====menu part end ===== */
+
+	/* ======banner part start ======= */
+	.banner-heading {
+		font-size: 48px;
+		margin-bottom: 38px;
+	}
+
+	/* ======banner part end ======= */
+
+	/* ======about part start ===== */
+	#about_part .heading {
+		margin-bottom: 26px;
+	}
+
+	#about_part {
+		padding: 100px 0;
+	}
+
+	#about_part .title {
+		font-size: 48px;
+	}
+
+	#about_part i {
+		font-size: 55px;
+		margin-bottom: 6px;
+	}
+
+	/* ======about part end ===== */
+
+	/* ====about second part start ==== */
+
+	#about_second {
+		padding: 110px 0;
+	}
+
+	#about_second h2 {
+		font-size: 43px;
+	}
+
+	#about_second .about_img img {
+		margin-top: 34px;
+	}
+
+	/* ====about second part end ==== */
+
+	/* =====gallery part start ==== */
+
+	#gallery_part {
+		padding-top: 90px;
+	}
+
+	#gallery_part .heading {
+		font-size: 44px;
+		margin-bottom: 25px;
+	}
+
+	.nav-link {
+		padding: 10px 10px;
+	}
+
+	#gallery_part .img img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		flex-direction: column;
+		gap: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		margin-top: 84px;
+	}
+
+	/* =====gallery part end ==== */
+
+	/* ======review part start ====== */
+
+
+	#review_part {
+		padding: 67px 0;
+	}
+
+	#review_part .main h2 {
+		margin-top: 80px;
+		font-size: 37px;
+	}
+
+	/* ======review part end ====== */
+
+	/* ======contact part start ======== */
+
+	#contact_part {
+		padding-bottom: 64px;
+	}
+
+	#contact_part a {
+		font-size: 20px;
+		margin-top: 67px;
+	}
+
+	#contact_part h1 {
+		font-size: 42px;
+	}
+
+	/* ======contact part end ======== */
+
+	/* ====ending part start ==== */
+
+	#ending_part .icon_main {
+		gap: 18px;
+	}
+
+	/* ====ending part end ==== */
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	/* ====menu part start ===== */
+	.toggler_icon {
+		color: white;
+		font-size: 20px;
+	}
+
+	#main_menu .navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#main_menu .navbar-toggler {
+		border: none;
+	}
+
+	#main_menu ul li a {
+		color: white;
+	}
+
+	/* ====menu part end ===== */
+
+	/* ======banner part start ======= */
+	.banner-heading {
+		font-size: 44px;
+		margin-bottom: 38px;
+	}
+
+	/* ======banner part end ======= */
+
+	/* ======about part start ===== */
+	#about_part .heading {
+		margin-bottom: 26px;
+	}
+
+	#about_part {
+		padding: 100px 0;
+	}
+
+	#about_part .title {
+		font-size: 44px;
+	}
+
+	#about_part i {
+		font-size: 48px;
+		margin-bottom: 6px;
+	}
+
+	/* ======about part end ===== */
+
+	/* ====about second part start ==== */
+
+	#about_second {
+		padding: 100px 0;
+	}
+
+	#about_second h2 {
+		font-size: 40px
+	}
+
+	#about_second .about_img img {
+		margin-top: 34px;
+	}
+
+	/* ====about second part end ==== */
+
+	/* =====gallery part start ==== */
+
+	#gallery_part {
+		padding-top: 90px;
+	}
+
+	#gallery_part .heading {
+		font-size: 41px;
+		margin-bottom: 25px;
+	}
+
+	.nav-link {
+		padding: 10px 10px;
+	}
+
+	#gallery_part .img img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		flex-direction: column;
+		gap: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		margin-top: 84px;
+	}
+
+	/* =====gallery part end ==== */
+
+	/* ======review part start ====== */
+
+	#review_part .review_main {
+		background-size: cover;
+	}
+
+	#review_part {
+		padding: 67px 0;
+	}
+
+	#review_part .main h2 {
+		margin-top: 80px;
+		font-size: 37px;
+	}
+
+	/* ======review part end ====== */
+
+	/* ======contact part start ======== */
+
+	#contact_part {
+		padding-bottom: 64px;
+	}
+
+	#contact_part a {
+		font-size: 18px;
+		margin-top: 67px;
+	}
+
+	#contact_part h1 {
+		font-size: 39px;
+	}
+
+	/* ======contact part end ======== */
+
+	/* ====ending part start ==== */
+
+	#ending_part .icon_main {
+		gap: 18px;
+	}
+
+	/* ====ending part end ==== */
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/* ====menu part start ===== */
+	.toggler_icon {
+		color: white;
+		font-size: 20px;
+	}
+
+	#main_menu .navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#main_menu .navbar-toggler {
+		border: none;
+	}
+
+	#main_menu ul li a {
+		color: white;
+	}
+
+	/* ====menu part end ===== */
+
+	/* ======banner part start ======= */
+	.banner-heading {
+		font-size: 41px;
+		margin-bottom: 34px;
+	}
+
+	/* ======banner part end ======= */
+
+	/* ======about part start ===== */
+	#about_part .heading {
+		margin-bottom: 26px;
+	}
+
+	#about_part {
+		padding: 50px 0;
+	}
+
+	#about_part .title {
+		font-size: 40px;
+	}
+
+	#about_part i {
+		font-size: 48px;
+		margin-bottom: 6px;
+	}
+
+	/* ======about part end ===== */
+
+	/* ====about second part start ==== */
+
+	#about_second {
+		padding: 70px 0;
+	}
+
+	#about_second h2 {
+		font-size: 40px
+	}
+
+	#about_second .about_img img {
+		margin-top: 34px;
+	}
+
+	/* ====about second part end ==== */
+
+	/* =====gallery part start ==== */
+
+	#gallery_part {
+		padding-top: 70px;
+	}
+
+	#gallery_part .heading {
+		font-size: 41px;
+		margin-bottom: 25px;
+	}
+
+	.nav-link {
+		padding: 10px 10px;
+	}
+
+	#gallery_part .img img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		flex-direction: column;
+		gap: 20px;
+	}
+
+	/* =====gallery part end ==== */
+
+	/* ======review part start ====== */
+
+	#review_part .review_main {
+		background-image: none;
+	}
+
+	#review_part {
+		padding: 67px 0;
+	}
+
+	#contact_part h1 {
+		font-size: 39px;
+	}
+
+	/* ======review part end ====== */
+
+	/* ======contact part start ======== */
+
+	#contact_part {
+		padding-bottom: 64px;
+	}
+
+	#contact_part a {
+		font-size: 18px;
+		margin-top: 67px;
+	}
+
+	/* ======contact part end ======== */
+
+	/* ====ending part start ==== */
+
+	#ending_part .icon_main {
+		gap: 18px;
+	}
+
+	/* ====ending part end ==== */
+
+}
+
+
+@media (max-width: 575.98px) {
+
+	/* ====menu part start ===== */
+	.toggler_icon {
+		color: white;
+		font-size: 20px;
+	}
+
+	#main_menu .navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#main_menu .navbar-toggler {
+		border: none;
+	}
+
+	#main_menu {
+		background-color: black;
+	}
+
+	#main_menu ul li a {
+		color: white;
+	}
+
+	/* ====menu part end ===== */
+
+	/* ======banner part start ======= */
+	.banner-heading {
+		font-size: 41px;
+		margin-bottom: 34px;
+	}
+
+	/* ======banner part end ======= */
+
+	/* ======about part start ===== */
+	#about_part .heading {
+		margin-bottom: 26px;
+	}
+
+	#about_part {
+		padding: 50px 0;
+	}
+
+	#about_part .title {
+		font-size: 40px;
+	}
+
+	#about_part i {
+		font-size: 48px;
+		margin-bottom: 6px;
+	}
+
+	/* ======about part end ===== */
+
+	/* ====about second part start ==== */
+
+	#about_second {
+		padding: 70px 0;
+	}
+
+	#about_second h2 {
+		font-size: 40px
+	}
+
+	#about_second .about_img img {
+		margin-top: 34px;
+	}
+
+	/* ====about second part end ==== */
+
+	/* =====gallery part start ==== */
+
+	#gallery_part {
+		padding-top: 70px;
+	}
+
+	#gallery_part .heading {
+		font-size: 41px;
+		margin-bottom: 25px;
+	}
+
+	.nav-link {
+		padding: 10px 10px;
+	}
+
+	#gallery_part .img img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .gallery_more {
+		flex-direction: column;
+		gap: 20px;
+	}
+
+	/* =====gallery part end ==== */
+
+	/* ======review part start ====== */
+
+	#review_part .review_main {
+		background-image: none;
+	}
+
+	#review_part {
+		padding: 67px 0;
+	}
+
+	#contact_part h1 {
+		font-size: 39px;
+	}
+
+	/* ======review part end ====== */
+
+	/* ======contact part start ======== */
+
+	#contact_part {
+		padding-bottom: 64px;
+	}
+
+	#contact_part a {
+		font-size: 18px;
+		margin-top: 67px;
+	}
+
+	/* ======contact part end ======== */
+
+	/* ====ending part start ==== */
+
+	#ending_part .icon_main {
+		gap: 11px;
+	}
+
+	/* ====ending part end ==== */
+
+}
